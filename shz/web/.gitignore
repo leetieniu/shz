@@ -1,1 +1,7 @@
+web.iml
+webapp.iml
+/.idea/
+/.settings/
 /target/
+.classpath
+.project
